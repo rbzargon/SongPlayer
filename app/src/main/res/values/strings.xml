@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">SongPlayer</string>
+    <string name="now_playing">Now Playing…</string>
+    <string name="grid_view">Grid View</string>
+    <string name="list_view">List View</string>
+    <string name="listview_purpose">This activity shows a list of songs.
+        Click on a song to move to now playing or click on GRID VIEW
+        to switch to grid view. The MediaPlayer class could be used to fetch songs from
+        local resources or external URLs.</string>
+    <string name="gridview_purpose">This activity shows a grid of songs.
+        Click on a song to move to now playing or click on LIST VIEW to
+        switch to list view. The MediaPlayer class could be used to fetch songs from
+        local resources or external URLs.</string>
+    <string name="nowplaying_purpose">This is the "Now Playing" activity.
+        Press the device "back" button to return to the songs. Here the MediaPlayer class
+        could be used to implement controlling playback of the songs.</string>
+</resources>
